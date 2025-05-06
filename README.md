@@ -31,10 +31,10 @@ Our primary goal is to build an automated pipeline to:
 ##  Target Species
 
 The classifier distinguishes between the following four deer species from the Missouri Camera Trap dataset:
-1. White-tailed Deer
-2. Mule Deer
-3. Elk
-4. Moose
+1 .Red Brocket Deer 
+2. White Tailed Deer 
+3. Red Deer 
+4. Roe Deer 
 
 ---
 
